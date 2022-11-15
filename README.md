@@ -1,5 +1,5 @@
-# cluster-api-headstart
-Cluster API - Headstart
+cluster-api-headstart
+# Cluster API - Headstart
 
 Based on "Cluster API" at https://github.com/kubernetes-sigs/cluster-api
 
