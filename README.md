@@ -3,6 +3,8 @@ Cluster API - Headstart
 
 Based on "Cluster API" at https://github.com/kubernetes-sigs/cluster-api
 
+Based on "Cluster API - The Book" at https://cluster-api.sigs.k8s.io/
+
 Based on "10 New DevOps Tools to Watch in 2023" at https://medium.com/4th-coffee/10-new-devops-tools-to-watch-in-2023-e974dbb1f1bb
 
 ## 100 - Introduction
