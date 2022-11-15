@@ -16,3 +16,14 @@ Started by the Kubernetes Special Interest Group (SIG) Cluster Lifecycle, the Cl
 If the official definition baffles you, think this: you can run one kubectl apply command to create a K8s cluster, and it works for AWS, Azure, DigitalOcean, Docker, GCP, OpenStack, and more.
 
 No need for creating Terraform modules (or worse, trying to figure out all the parameters of somebody else’s modules) for K8s clusters, no need to figure out how to use eksctl for AWS and something else for another cloud; simply kubectl apply to create clusters. Sounds impressive, right? I know. That’s why it’s on the top-10-tools-to-watch list.
+
+## 200 - Requirements
+
+
+
+## 300 - Building Our Application
+
+Based on "Getting Started" at https://cluster-api.sigs.k8s.io/user/quick-start.html
+
+## 400 - Conclusion
+
